@@ -1,6 +1,3 @@
-Here’s an updated version of the `README.md` file for your **Social Network Analyzer** app, with no license or screenshot sections and some fun emojis to make it more engaging:
-
----
 
 # 📊 Social Network Analyzer 🧠
 
